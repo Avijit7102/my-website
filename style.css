@@ -94,8 +94,58 @@ section{
       width: 100%;
   }
   .inquiry{
+      background-image: url(images/Group_33094_1.png);
       margin-top: 15%;
-      position: relative;
-      width: 300px;
-      height::300%;
+      width: 100%;
+      margin-left: 135px;
+
+  }
+  .text{
+      text-align: left;
+      padding-top: 20%;
+      font-size: 50px;
+      color: white;
+      padding-left: 60px;
+
+  }
+  .text1{
+    float: right;
+    text-decoration: none;
+    color: navy;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font: bold;
+    background-image: linear-gradient(rgb(83, 74, 64), orange);
+    margin-right: 40%;
+  }
+  .last{
+      text-align: center;
+      width: 100%;
+      margin-top: 10%;
+      height: 100px;
+  }
+  h3{
+      font-size: 30px;
+      color: rgb(67, 67, 70);
+      font-family: monospace;
+  }
+  h4{
+      font-size: 40px;
+      color: rgb(134, 113, 73);
+      font-family: monospace;
+  }
+  .contact{
+      text-align: center;
+  }
+  .fa{
+      text-decoration: none;
+      font-size: 15px;
+  }
+  .git{
+    text-decoration: none;
+    font-size: 15px;
+  }
+  .link{
+    text-decoration: none;
+    font-size: 15px;
   }
