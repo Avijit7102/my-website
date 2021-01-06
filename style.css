@@ -149,3 +149,8 @@ section{
     text-decoration: none;
     font-size: 15px;
   }
+  ul{
+      margin: 0 auto;
+      display: table;
+  }
+
